@@ -17,3 +17,9 @@ I did the test and checked the impact on wireshark
 ![](show3.png)
 
 As you can see, the wireshark detected it as unreachable port,this is because i dont have a service running at port 80...but.. all packets are here, the script works!
+
+# Versions
+
+[Version 1.0](https://github.com/hashcipher/portflooder/version1-0.md) - simple
+
+[Version 1.1](https://github.com/hashcipher/portflooder/version1-1.md) - with timer

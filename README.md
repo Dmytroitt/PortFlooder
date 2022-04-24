@@ -20,6 +20,6 @@ As you can see, the wireshark detected it as unreachable port,this is because i 
 
 # Versions
 
-[Version 1.0](https://github.com/hashcipher/portflooder/version1-0.md) - simple
+[Version 1.0](https://github.com/hashcipher/portflooder/PortFlooderV1-0.py) - simple
 
-[Version 1.1](https://github.com/hashcipher/portflooder/version1-1.md) - with timer
+[Version 1.1](https://github.com/hashcipher/portflooder/PortFlooderV1-1.py) - with timer
